@@ -2,6 +2,16 @@
 
 A small macOS menu bar app for copying the details you use often.
 
+## Screenshots
+
+Hover over the menu bar icon to copy a saved item:
+
+![Quick Copy menu bar panel](screenshots/menu-bar.png)
+
+Add and manage items in settings:
+
+![Quick Copy settings window](screenshots/settings.png)
+
 ## Use
 
 1. Open `build/Quick Copy.app`. On first launch, the settings window opens.
